@@ -2,7 +2,7 @@
 
 Free push/pull calculator based on the Snook / Liberty Mutual tables (US) plus the UK HSE RAPP assessment. Enter a measured initial and sustained force, distance, handle height and rate to get the design-goal forces, Risk Index, maximum repetitions, and a RAPP score. For information only; not a substitute for a professional ergonomic assessment.
 
-**Live version:** https://resdavo.github.io/push-pull-calculator/ (to be published)
+**Live version:** https://resdavo.github.io/push-pull-calculator/
 
 The calculator is a single HTML file (`index.html`). It runs entirely in your browser — there is nothing to install, and no data you enter is sent anywhere.
 
